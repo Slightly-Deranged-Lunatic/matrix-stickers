@@ -1,6 +1,7 @@
 {
   "packs": [
-    "our-stickers.json"
+    "our-stickers.json",
+    "chibi_miku.json"
   ],
   "homeserver_url": "https://derangedlunacy.me"
 }
